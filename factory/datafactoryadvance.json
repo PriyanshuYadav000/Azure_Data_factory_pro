@@ -1,0 +1,15 @@
+{
+	"name": "datafactoryadvance",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "03154c7c-4fae-42c7-99b9-0e9c4fa0cde4",
+		"tenantId": "27282fdd-4c0b-4dfb-ba91-228cd83fdf71"
+	}
+}
