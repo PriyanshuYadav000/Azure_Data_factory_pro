@@ -126,8 +126,7 @@ Add screenshots of:
 
 **Priyanshu Yadav**
 
-- LinkedIn: *(Add your LinkedIn URL)*
-- GitHub: *(Add your GitHub URL)*
+- LinkedIn: https://www.linkedin.com/in/priyanshu-yadav-337p/
 
 ---
 
